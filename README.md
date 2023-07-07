@@ -1,11 +1,11 @@
-#Ytalo Teixeira
+-YtaloTeixeira
 
-#Apaixonado por programação e indo atrás de me tornar um dev Fullstack
+-Atualmente estou no 10º período do curso de Direito, porém busco aventuras na programação durante as férias.
 
-#Atualmente não trabalho com área de desenvolvimento, porém estudo regularmente
-#Estudo HTML, CSS e JavaScript
+-A maioria dos projetos encontrados aqui serão em JavaScript e linguagens similares.
 
 #Contatos:
-#E-mail: ytalo.tavares0@gmail.com
-#LinkedIn: linkedin.com/in/ytalo-vinicios-16602a1b0/
-#Discord: Ytalo#4162
+
+-E-mail: ytalo.tavares0@gmail.com
+
+-LinkedIn: linkedin.com/in/ytalo-vinicios-16602a1b0/
