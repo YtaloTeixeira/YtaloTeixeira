@@ -1,6 +1,6 @@
 -YtaloTeixeira
 
--Atualmente estou no 10º período do curso de Direito, porém busco aventuras na programação durante as férias.
+-Atualmente estou no 1º período do curso de Análise e Desenvolvimento de Sistemas.
 
 -A maioria dos projetos encontrados aqui serão em JavaScript e linguagens similares.
 
